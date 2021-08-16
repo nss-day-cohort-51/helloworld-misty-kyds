@@ -1,0 +1,12 @@
+html {
+    font-family: 'Nunito', sans-serif;
+    background-image: linear-gradient(to right, #ffe3c4, #da922e);
+    
+}
+body {
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+

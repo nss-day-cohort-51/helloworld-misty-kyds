@@ -1,0 +1,19 @@
+.lists {
+    display: flex;
+   margin-left: 200px;
+   
+}
+.cities {
+    border: solid;
+    margin-right: 80px;
+}
+
+.landmarks {
+    border: solid;
+    margin-right: 20px;
+}
+.citizens {
+    border: solid;
+    margin-left: 29px;
+}
+

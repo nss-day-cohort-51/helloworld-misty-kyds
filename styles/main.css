@@ -17,3 +17,27 @@
     margin-left: 29px;
 }
 
+img {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;
+    padding: above;
+  }
+
+  h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+  }
+html {
+    font-family: 'Nunito', sans-serif;
+    background-image: linear-gradient(to right, #ffe3c4, #da922e);
+    
+}
+body {
+    font-size: 30px;
+}

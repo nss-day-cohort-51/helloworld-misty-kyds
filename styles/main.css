@@ -14,3 +14,11 @@ img {
     justify-content: center;
     font-size: 3em;
   }
+html {
+    font-family: 'Nunito', sans-serif;
+    background-image: linear-gradient(to right, #ffe3c4, #da922e);
+    
+}
+body {
+    font-size: 30px;
+}

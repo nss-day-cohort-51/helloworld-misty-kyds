@@ -12,20 +12,32 @@ align-items: center;
 }
 .lists {
     display: flex;
-    margin-left: 200px;
+   margin-left: 80px;
+   
+   
+   
+}
+ul {
+    list-style-type: none;
 }
 .cities {
+    flex: 1;
     border: solid;
-    margin-right: 80px;
+    margin-right: 60px;
+    
 }
 
 .landmarks {
+    flex: 1;
     border: solid;
     margin-right: 20px;
+    
 }
 .citizens {
+    flex: 1;
     border: solid;
     margin-left: 29px;
+    
 }
 
 img {

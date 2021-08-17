@@ -1,5 +1,6 @@
 header{
-background-color: white;
+background-color: black;
+color: white;
 display: flex;
 justify-content: space-evenly;
 align-items: center;
@@ -11,21 +12,32 @@ align-items: center;
 }
 .lists {
     display: flex;
-   margin-left: 200px;
+   margin-left: 80px;
+   
+   
    
 }
+ul {
+    list-style-type: none;
+}
 .cities {
+    flex: 1;
     border: solid;
-    margin-right: 80px;
+    margin-right: 60px;
+    
 }
 
 .landmarks {
+    flex: 1;
     border: solid;
     margin-right: 20px;
+    
 }
 .citizens {
+    flex: 1;
     border: solid;
     margin-left: 29px;
+    
 }
 
 img {
@@ -51,4 +63,22 @@ html {
 }
 body {
     font-size: 30px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:white;
+    background-color: transparent ;
+    text-decoration: none;
+}
+footer{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
 }
